@@ -1,0 +1,9 @@
+/*16-Write a Dart code snippet that demonstrates the use of an arithmetic operator to
+calculate the remainder of dividing 10 by 3.*/
+
+void main() {
+  int number1 = 10;
+  int number2 = 3;
+  int result = number1 % number2;
+  print('The remainder of $number1 divided by $number2 is: $result');
+}

@@ -1,0 +1,3 @@
+/*10-Explain what happens if you try to use a variable before it is declared in Dart.*/
+
+/*In Dart, if you try to use a variable before it is declared, the compiler will throw an error indicating that the variable is not defined. This is because Dart is a statically typed language, and all variables must be declared before they are used. Using a variable before its declaration can lead to confusion and unexpected behavior, so Dart enforces this rule to ensure code clarity and correctness.*/
