@@ -1,0 +1,10 @@
+D:/diploma_flutter/dart_lessons/homework/build/CMakeFiles/INSTALL.dir
+D:/diploma_flutter/dart_lessons/homework/build/CMakeFiles/ALL_BUILD.dir
+D:/diploma_flutter/dart_lessons/homework/build/CMakeFiles/ZERO_CHECK.dir
+D:/diploma_flutter/dart_lessons/homework/build/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/diploma_flutter/dart_lessons/homework/build/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/diploma_flutter/dart_lessons/homework/build/flutter/CMakeFiles/flutter_assemble.dir
+D:/diploma_flutter/dart_lessons/homework/build/flutter/CMakeFiles/INSTALL.dir
+D:/diploma_flutter/dart_lessons/homework/build/runner/CMakeFiles/flutter_homework01.dir
+D:/diploma_flutter/dart_lessons/homework/build/runner/CMakeFiles/INSTALL.dir
+D:/diploma_flutter/dart_lessons/homework/build/runner/CMakeFiles/ALL_BUILD.dir

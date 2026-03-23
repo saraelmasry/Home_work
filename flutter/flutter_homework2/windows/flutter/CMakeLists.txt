@@ -4,11 +4,7 @@ cmake_minimum_required(VERSION 3.14)
 set(EPHEMERAL_DIR "${CMAKE_CURRENT_SOURCE_DIR}/ephemeral")
 
 # Configuration provided via flutter tool.
-if(EXISTS "${EPHEMERAL_DIR}/generated_config.cmake")
-  include("${EPHEMERAL_DIR}/generated_config.cmake")
-else()
-  message(FATAL_ERROR "Missing generated_config.cmake; run `flutter pub get` / `flutter build` in Windows project")
-endif()
+include(${EPHEMERAL_DIR}/generated_config.cmake)
 
 # TODO: Move the rest of this into files in ephemeral. See
 # https://github.com/flutter/flutter/issues/57146.
